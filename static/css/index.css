@@ -133,5 +133,8 @@ body {
   font-size: smaller;
 }
 
+.teaser .hero-body {
+  text-align: center;
+}
 
 
